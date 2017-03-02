@@ -2,5 +2,5 @@
 
 Make sure you have the requests, pandas, and BeautifulSoup librarys downloaded
 
-Run DataScrape.py and the csv files will be created in the same folder that DataScrape.py is in
+Run WebScrape.py and the csv files will be created in the same folder that WebScrape.py is in
 
