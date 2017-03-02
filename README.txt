@@ -1,4 +1,5 @@
 # NSH_Web_Scraping
+Created using Python 3.6
 
 Make sure you have the requests, pandas, and BeautifulSoup librarys downloaded.
 
